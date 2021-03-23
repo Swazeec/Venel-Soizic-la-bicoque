@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans&display=swap');
+
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 16px;
+    
+}
+    
+
+.navbar-brand {
+    width: 15vw;
+    min-width: 100px;
+    max-width: 200px;
+}
+h1{
+    font-size: 1.5em;
+}
+.text-green{
+    color: #cddc39;
+    font-size: 1.2em;
+}
+.btn{
+    background-color: #cddc39;
+}
+footer{
+    background-color: #f3f5e0;
+}
+.copyright{
+    color: #ff6d00;
+}
+.logo{
+    width: 100px;
+}
